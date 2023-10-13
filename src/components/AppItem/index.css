@@ -1,0 +1,14 @@
+.image1 {
+  height: 300px;
+  width: 300px;
+}
+
+.appCon {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.appName {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
